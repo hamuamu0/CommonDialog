@@ -5,6 +5,24 @@
 
 ### 使用方式
 
+首先进行引用：
+
+maven地址：
+```
+<dependency>
+	<groupId>com.qubin.commondialog</groupId>
+	<artifactId>CommonDialog</artifactId>
+	<version>1.0.0</version>
+	<type>pom</type>
+</dependency>
+```
+
+gradle地址
+```
+compile 'com.qubin.commondialog:CommonDialog:1.0.0'
+
+```
+
 ```
 CommonDialog build;
 
