@@ -19,7 +19,7 @@ maven地址：
 
 gradle地址
 ```
-compile 'com.qubin.commondialog:CommonDialog:1.0.0'
+implementation 'com.qubin.commondialog:CommonDialog:1.0.0'
 
 ```
 
